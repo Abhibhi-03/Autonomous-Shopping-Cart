@@ -1,0 +1,3 @@
+For LCD: https://github.com/sstaub/mbedLCDi2c
+
+For RFID: http://os.mbed.com/users/AtomX/code/MFRC522/ 
