@@ -1,5 +1,6 @@
 //Indepreet Singh Parmar
-//Abhi Patel
+//Abhi Patel 
+//esp32 main file
 //esp32_config.cpp - THe main program running on ESP32 dev module in order to connect our camera, initialise camera, communicate with firebase cloud and FRDM board simultaneously 
 
 #include <WiFi.h>
