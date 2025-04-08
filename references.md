@@ -1,93 +1,48 @@
-Amazon Ecommerce. (n.d.). *Amazon Go*. Retrieved from https://www.amazon.com/b?ie=UTF8&node=16008589011
+Adafruit. (n.d.). *Debounce a button with Arduino.* https://learn.adafruit.com/make-it-switch/debouncing
 
-Arduino. (n.d.). *HTTPClient and WiFiClientSecure documentation*. Retrieved from https://www.arduino.cc/reference/en/libraries/httpclient/
+Amazon. (n.d.). *Amazon Go.* https://www.amazon.com/b?ie=UTF8&node=16008589011
 
-Arducam. (2023). *Arducam Mega Camera Library for Arduino*. GitHub. https://github.com/ArduCAM/ArduCAM
+Arducam, *Mega SPI Documentation,* https://docs.arducam.com/Arduino-SPI-camera/MEGA-SPI/MEGA-SPI-Camera/
 
-Arm Mbed. (2024). *Mbed OS 6 documentation*. Retrieved from https://os.mbed.com/docs/mbed-os/v6.0/
+Arduino. (n.d.). *HTTPClient and WiFiClientSecure documentation.* https://www.arduino.cc/reference/en/libraries/httpclient/ 
 
-Arm Mbed. (2024). *Serial communication: UnbufferedSerial class*. Retrieved from https://os.mbed.com/docs/mbed-os/v6.0/apis/unbufferedserial.html
+Arduino. (n.d.). *HTTPClient and WiFiClientSecure,* Github https://github.com/amcewen/HttpClient
 
-Arm Mbed. (2024). *Timer class documentation*. Retrieved from https://os.mbed.com/docs/mbed-os/v6.0/apis/timer.html
+Arm Mbed. (2020). *Speaker PwmOut reference.* https://os.mbed.com/users/4180_1/notebook/using-a-speaker-for-audio-output/
 
-Arm Mbed. (2024). *PwmOut API reference*. Retrieved from https://os.mbed.com/docs/mbed-os/v6.0/apis/pwmout.html
+Arm Mbed. (n.d). *Timer Interrupts and Tasks.* https://os.mbed.com/teams/TVZ-Mechatronics-Team/wiki/Timers-interrupts-and-tasks
 
-Bblanchon. (2024). *ArduinoJson Library – C++ JSON Library for IoT*. Retrieved from https://arduinojson.org
+Bblanchon. (2024). *ArduinoJson Library – C++ JSON library for IoT.* https://arduinojson.org
 
-DFRobot. (n.d.). *I2C LCD1602 display module – Gravity*. Retrieved from https://wiki.dfrobot.com/I2C_LCD1602_Display_Module__Gravity__SKU__DFR0554_
+Espressif Systems. (2024). *ESP32 Arduino Core.* GitHub. https://github.com/espressif/arduino-esp32
 
-E Feit. (2024, April). *Transfer Learning Image classification with MobileNet-V2* [Video]. YouTube. https://www.youtube.com/watch?v=9FMVlhOGDoo
+Espressif Systems. (2024). *Serial communication using UART.* https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/uart.html
 
-Espressif Systems. (2024). *ESP32 Arduino Core*. GitHub Repository. https://github.com/espressif/arduino-esp32
+Feit, E. (2024, April). *Transfer learning image classification with MobileNet-V2 [Video].* YouTube. https://www.youtube.com/watch?v=9FMVlhOGDoo
 
-Firebase. (2024). *Realtime Database REST API*. Retrieved from https://firebase.google.com/docs/database/rest/start
+Firebase. (2024). *Firebase Admin SDK reference.* https://firebase.google.com/docs/admin/setup
 
-Firebase. (2024). *Firebase Cloud Storage REST API*. Retrieved from https://firebase.google.com/docs/storage
+Firebase. (2024). *Firebase Cloud Storage REST API.* https://firebase.google.com/docs/storage
 
-Firebase. (2023). *Manage Cloud Storage with Cloud Functions*. Retrieved from https://firebase.google.com/docs/functions/storage-events
+Firebase. (2024). *Realtime Database REST API.* https://firebase.google.com/docs/database/rest/start
 
-Firebase. (2023). *Realtime Database with Admin SDK*. Retrieved from https://firebase.google.com/docs/database/admin/start
+form-data. (n.d.). *A library to create readable multipart/form-data streams in Node.js.* GitHub. https://github.com/form-data/form-data
 
-Firebase. (2023). *Cloud Functions for Firebase - JavaScript SDK*. Retrieved from https://firebase.google.com/docs/functions
+Google Cloud. (2023). *Environment variables in Cloud Functions.* https://cloud.google.com/functions/docs/configuring/env-var
 
-GitHub. (n.d.). *mbed-LCDi2c library repository*. Retrieved from https://os.mbed.com/users/dreschpe/code/LCDi2c/
+Google Cloud. (2024). *Deploying a Flask API on Cloud Run with Docker.* https://cloud.google.com/run/docs/quickstarts/build-and-deploy
+https://cloud.google.com/run/docs/quickstarts/functions/deploy-functions-gcloud
 
-Google Cloud. (2024). *Deploying a Flask API on Cloud Run with Docker*. Retrieved from https://cloud.google.com/run/docs/quickstarts/build-and-deploy
+Hackers Realm. (2024).*Youtube Video How to Deploy a trained model in cloud.* https://www.youtube.com/watch?v=HiDLxjQJTZc
 
-Google Firebase. (2024). *Firebase Realtime Database REST API*. Retrieved from https://firebase.google.com/docs/database/rest/start
+node-fetch. (n.d.). *A light-weight module that brings window.fetch to Node.js.* GitHub. https://github.com/node-fetch/node-fetch
 
-Google Firebase. (2024). *Firebase Cloud Storage REST API*. Retrieved from https://firebase.google.com/docs/storage
+Olejar, M. (2013). *MFRC522 – MIFARE RC522 RFID reader library.* Mbed OS. http://os.mbed.com/users/AtomX/code/MFRC522/
 
-Gregeric. (n.d.). *MFRC522 RFID module Mbed library*. Retrieved from https://os.mbed.com/users/gregeric/code/MFRC522/
+Patel, A., & Parmar, I. (2025, April 7). Autonomous shopping cart [GitHub repository]. https://github.com/Abhibhi-03/Autonomous-Shopping-Cart
 
-ISO/IEC. (2017). *Programming languages — C++ (ISO/IEC 14882:2017)*. International Organization for Standardization.
+Sahoo, S. (2021, June 14). *How to train MobileNetV2 on a custom dataset.* Roboflow. https://blog.roboflow.com/how-to-train-mobilenetv2-on-a-custom-dataset/
 
-M. Olejar. (2013, December 18). *MFRC522 – MIFARE RC522 RFID reader library*. Mbed OS. Retrieved from http://os.mbed.com/users/AtomX/code/MFRC522/
+Staubb, S. (2021). *mbedLCDi2c – I2C LCD library* [GitHub repository]. https://github.com/sstaub/mbedLCDi2c
 
-NXP Semiconductors. (2020). *FRDM-K66F product page*. Retrieved from https://www.nxp.com/design/development-boards/freedom-development-boards/mcu-boards/freedom-development-platform-for-kinetis-k66-k65-and-k26-mcus:FRDM-K66F
-
-S. Sahoo. (2021, June 14). *How to Train MobileNetV2 on a Custom Dataset*. Roboflow. https://blog.roboflow.com/how-to-train-mobilenetv2-on-a-custom-dataset/
-
-S. Staubb. (2021, January 16). *mbedLCDi2c – I2C LCD Library*. GitHub. https://github.com/sstaub/mbedLCDi2c
-
-A. Patel & I. Parmar. (2025, April 7). *Autonomous Shopping Cart* [GitHub repository]. https://github.com/Abhibhi-03/Autonomous-Shopping-Cart
-
-node-fetch. (n.d.). *A light-weight module that brings `window.fetch` to Node.js*. GitHub. https://github.com/node-fetch/node-fetch
-
-form-data. (n.d.). *A library to create readable `multipart/form-data` streams in Node.js*. GitHub. https://github.com/form-data/form-data
-
-Arducam. (2024). *Using Arducam Mega with ESP32*. https://www.arducam.com/docs/arduino/arducam-mega/
-
-Google Cloud. (2023). *Build and push containers to Cloud Run*. https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-container
-
-- Google Firebase. (2024). *Firebase Admin SDK Reference*. https://firebase.google.com/docs/admin/setup  
-
-- Google Cloud. (2023). *Environment variables in Cloud Functions*. https://cloud.google.com/functions/docs/configuring/env-var  
-  **MobileNetV2 Training & Transfer Learning**
-
-- TensorFlow. (2024). *Transfer Learning with TensorFlow and Keras*. https://www.tensorflow.org/tutorials/images/transfer_learning  
-
-- Pallets. (2024). *Flask Deployment Options*. https://flask.palletsprojects.com/en/latest/deploying/wsgi-standalone/  
-
-
-
-- Arm Mbed. (2024). *Serial Communication (UART) with UnbufferedSerial*. https://os.mbed.com/docs/mbed-os/v6.0/apis/unbufferedserial.html  
-
-- Espressif Systems. (2024). *Serial Communication Using UART*. https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/uart.html  
-
-- Adafruit. (n.d.). *Debounce a Button with Arduino*. https://learn.adafruit.com/make-it-switch/debouncing  
-  > Used in FRDM button debounce logic using `Timer`.
-
----
-####  **HTTP POST with ESP32 to Firebase**
-
-- Arduino. (2024). *HTTPClient Library Reference*. https://www.arduino.cc/reference/en/libraries/httpclient/  
-
----
-
-####  **OpenCV Usage for Image Preprocessing**
-
-- OpenCV.org. (2023). *Image Preprocessing Techniques*. https://docs.opencv.org/4.x/d4/dc6/tutorial_py_image_display.html  
-  > Used before feeding image to TensorFlow in Cloud Run.
-
----
+TensorFlow. (2024). *Transfer learning with TensorFlow and Keras.* https://www.tensorflow.org/tutorials/images/transfer_learning
