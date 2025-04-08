@@ -59,3 +59,35 @@ form-data. (n.d.). *A library to create readable `multipart/form-data` streams i
 Arducam. (2024). *Using Arducam Mega with ESP32*. https://www.arducam.com/docs/arduino/arducam-mega/
 
 Google Cloud. (2023). *Build and push containers to Cloud Run*. https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-container
+
+- Google Firebase. (2024). *Firebase Admin SDK Reference*. https://firebase.google.com/docs/admin/setup  
+
+- Google Cloud. (2023). *Environment variables in Cloud Functions*. https://cloud.google.com/functions/docs/configuring/env-var  
+  **MobileNetV2 Training & Transfer Learning**
+
+- TensorFlow. (2024). *Transfer Learning with TensorFlow and Keras*. https://www.tensorflow.org/tutorials/images/transfer_learning  
+
+- Pallets. (2024). *Flask Deployment Options*. https://flask.palletsprojects.com/en/latest/deploying/wsgi-standalone/  
+
+
+
+- Arm Mbed. (2024). *Serial Communication (UART) with UnbufferedSerial*. https://os.mbed.com/docs/mbed-os/v6.0/apis/unbufferedserial.html  
+
+- Espressif Systems. (2024). *Serial Communication Using UART*. https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/uart.html  
+
+- Adafruit. (n.d.). *Debounce a Button with Arduino*. https://learn.adafruit.com/make-it-switch/debouncing  
+  > Used in FRDM button debounce logic using `Timer`.
+
+---
+####  **HTTP POST with ESP32 to Firebase**
+
+- Arduino. (2024). *HTTPClient Library Reference*. https://www.arduino.cc/reference/en/libraries/httpclient/  
+
+---
+
+####  **OpenCV Usage for Image Preprocessing**
+
+- OpenCV.org. (2023). *Image Preprocessing Techniques*. https://docs.opencv.org/4.x/d4/dc6/tutorial_py_image_display.html  
+  > Used before feeding image to TensorFlow in Cloud Run.
+
+---
