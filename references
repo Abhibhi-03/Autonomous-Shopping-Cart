@@ -1,0 +1,61 @@
+Amazon Ecommerce. (n.d.). *Amazon Go*. Retrieved from https://www.amazon.com/b?ie=UTF8&node=16008589011
+
+Arduino. (n.d.). *HTTPClient and WiFiClientSecure documentation*. Retrieved from https://www.arduino.cc/reference/en/libraries/httpclient/
+
+Arducam. (2023). *Arducam Mega Camera Library for Arduino*. GitHub. https://github.com/ArduCAM/ArduCAM
+
+Arm Mbed. (2024). *Mbed OS 6 documentation*. Retrieved from https://os.mbed.com/docs/mbed-os/v6.0/
+
+Arm Mbed. (2024). *Serial communication: UnbufferedSerial class*. Retrieved from https://os.mbed.com/docs/mbed-os/v6.0/apis/unbufferedserial.html
+
+Arm Mbed. (2024). *Timer class documentation*. Retrieved from https://os.mbed.com/docs/mbed-os/v6.0/apis/timer.html
+
+Arm Mbed. (2024). *PwmOut API reference*. Retrieved from https://os.mbed.com/docs/mbed-os/v6.0/apis/pwmout.html
+
+Bblanchon. (2024). *ArduinoJson Library – C++ JSON Library for IoT*. Retrieved from https://arduinojson.org
+
+DFRobot. (n.d.). *I2C LCD1602 display module – Gravity*. Retrieved from https://wiki.dfrobot.com/I2C_LCD1602_Display_Module__Gravity__SKU__DFR0554_
+
+E Feit. (2024, April). *Transfer Learning Image classification with MobileNet-V2* [Video]. YouTube. https://www.youtube.com/watch?v=9FMVlhOGDoo
+
+Espressif Systems. (2024). *ESP32 Arduino Core*. GitHub Repository. https://github.com/espressif/arduino-esp32
+
+Firebase. (2024). *Realtime Database REST API*. Retrieved from https://firebase.google.com/docs/database/rest/start
+
+Firebase. (2024). *Firebase Cloud Storage REST API*. Retrieved from https://firebase.google.com/docs/storage
+
+Firebase. (2023). *Manage Cloud Storage with Cloud Functions*. Retrieved from https://firebase.google.com/docs/functions/storage-events
+
+Firebase. (2023). *Realtime Database with Admin SDK*. Retrieved from https://firebase.google.com/docs/database/admin/start
+
+Firebase. (2023). *Cloud Functions for Firebase - JavaScript SDK*. Retrieved from https://firebase.google.com/docs/functions
+
+GitHub. (n.d.). *mbed-LCDi2c library repository*. Retrieved from https://os.mbed.com/users/dreschpe/code/LCDi2c/
+
+Google Cloud. (2024). *Deploying a Flask API on Cloud Run with Docker*. Retrieved from https://cloud.google.com/run/docs/quickstarts/build-and-deploy
+
+Google Firebase. (2024). *Firebase Realtime Database REST API*. Retrieved from https://firebase.google.com/docs/database/rest/start
+
+Google Firebase. (2024). *Firebase Cloud Storage REST API*. Retrieved from https://firebase.google.com/docs/storage
+
+Gregeric. (n.d.). *MFRC522 RFID module Mbed library*. Retrieved from https://os.mbed.com/users/gregeric/code/MFRC522/
+
+ISO/IEC. (2017). *Programming languages — C++ (ISO/IEC 14882:2017)*. International Organization for Standardization.
+
+M. Olejar. (2013, December 18). *MFRC522 – MIFARE RC522 RFID reader library*. Mbed OS. Retrieved from http://os.mbed.com/users/AtomX/code/MFRC522/
+
+NXP Semiconductors. (2020). *FRDM-K66F product page*. Retrieved from https://www.nxp.com/design/development-boards/freedom-development-boards/mcu-boards/freedom-development-platform-for-kinetis-k66-k65-and-k26-mcus:FRDM-K66F
+
+S. Sahoo. (2021, June 14). *How to Train MobileNetV2 on a Custom Dataset*. Roboflow. https://blog.roboflow.com/how-to-train-mobilenetv2-on-a-custom-dataset/
+
+S. Staubb. (2021, January 16). *mbedLCDi2c – I2C LCD Library*. GitHub. https://github.com/sstaub/mbedLCDi2c
+
+A. Patel & I. Parmar. (2025, April 7). *Autonomous Shopping Cart* [GitHub repository]. https://github.com/Abhibhi-03/Autonomous-Shopping-Cart
+
+node-fetch. (n.d.). *A light-weight module that brings `window.fetch` to Node.js*. GitHub. https://github.com/node-fetch/node-fetch
+
+form-data. (n.d.). *A library to create readable `multipart/form-data` streams in Node.js*. GitHub. https://github.com/form-data/form-data
+
+Arducam. (2024). *Using Arducam Mega with ESP32*. https://www.arducam.com/docs/arduino/arducam-mega/
+
+Google Cloud. (2023). *Build and push containers to Cloud Run*. https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-container
