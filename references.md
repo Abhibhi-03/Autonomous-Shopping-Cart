@@ -39,6 +39,8 @@ node-fetch. (n.d.). *A light-weight module that brings window.fetch to Node.js.*
 
 Olejar, M. (2013). *MFRC522 – MIFARE RC522 RFID reader library.* Mbed OS. http://os.mbed.com/users/AtomX/code/MFRC522/
 
+OpenAI, ChatGPT (2025) - *LLama Model to debug and seek help for issues* chatgpt.com
+
 Patel, A., & Parmar, I. (2025, April 7). Autonomous shopping cart [GitHub repository]. https://github.com/Abhibhi-03/Autonomous-Shopping-Cart
 
 Sahoo, S. (2021, June 14). *How to train MobileNetV2 on a custom dataset.* Roboflow. https://blog.roboflow.com/how-to-train-mobilenetv2-on-a-custom-dataset/
