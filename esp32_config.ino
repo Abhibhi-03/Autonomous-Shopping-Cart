@@ -13,14 +13,14 @@
 
 // --- CONFIGURATION SECTION ---
 // WiFi credentials for cloud communication
-const char* ssid = "Parmar & Saini family";
-const char* password = "Jaspal123$";
+const char* ssid = "";
+const char* password = "";
 
 // Firebase storage bucket ID (used for direct upload via REST API)
 #define FIREBASE_STORAGE_BUCKET "smart-shopping-cart-225a5.firebasestorage.app"
 
 // Access token required to authenticate with Firebase
-String ACCESS_TOKEN = "ya29.c.c0ASRK0Ga6rVWAcsQ-UmdLuV-0xoKSPjtgPoGgiaqRmcu-I9vVSD_8M6XVcNZ_DasC8aBBqxln9ph8IwkbYfSMSaW0dagaNpKa4AedNK3T_CQSmOLA_VIK2yWjERUhd4_fY_bldgkirIIbFsIbGk9wEfbhvQP_wwHPnrEViw5isaufGt0Lx5qpKR4k3aMVQDe-uPXOONQyMHlPQVYfDnUTQnvwbgT4RuNV3iVnQn0H0Itj9uwNHRQamahPGxI43uMFTVOIlk9G-w84yN4ImnQxxKh3Apzyb6nP73FCIHZlRpebycjyUcOJxDopD0wE5yHJXfeY45s8iz3432pS9IYvPmDl63UDF-ypJh6WzddJNyk9xeMeB_kSZ_2OT385DSwRJzl0ygbpl8iVerSkanM0vBOYSIfnoU0fpRmI4lzbBuewVgS7krVvS-tl_e4SnBinYrvx6k0xoXS0vOvoSgOWxiig6rOO1p2pmO8lUcwjs5WSY0FhiO3-eVa-yarQxcsMjJug4uIqjofVmBXqViwe7acpctBhXgQsiiR7xQaZ9hdf5MxVtbbg52lugl49gn21v3dpi5lb2O7i3FYF_rl0shMS8UZYJOrsxn1rijZYeXocp8Fu0BYpiJ4ezJsJxJVmuZplfQS8nBJIu0kd3fBObuy9YcQOiI5iO3614o3IB3vleYuUOmfniFJJbww1dIehl2rUuXoIRS-k0RbhOwVtf4fw6Q-ucUMserfati5a8uF1sQhxj9w9i4hu5Upb9SvgF4M7ZvpWusIrtnY0esujIvjbBcQWS0zOoBc4fZBBBqF--d3aIMFJm_8ha8Rt5ujyjgj9fya9Yz1XW8cYmm8BWhUVStdVVroy74-wgIwk8zxasli3sJlwIqB_y0oYUyfmarz4VgOvdYhFYgpviF2b700qBb-eOZx6veZiMQl_YBtcnSa7o0sO4q1gmWJI2vd133Wk5c9fdFltJMf2s3Sk_r5QgO9Mo2-5OUVmh4krkblmXpldgMcbxZX";
+String ACCESS_TOKEN = "";
 
 // --- CAMERA SETUP ---
 const int CS = 5;               // Chip Select pin for Arducam Mega
