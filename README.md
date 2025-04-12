@@ -1,8 +1,5 @@
 # Smart Shopping Cart –  *Tap Cart*
 
-## Demo Video Link
-https://seneca-my.sharepoint.com/:v:/g/personal/iparmar1_myseneca_ca/Ef1WUrLiHydLjBZKFkvNBPoBBUC4hpb3cK3ptZdImZfKXg?e=BmfXfl
-
 ## Youtube link demo
 https://youtu.be/8iXMl7V7iCE
 
