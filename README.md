@@ -3,6 +3,9 @@
 ## Project Overview
 The Tap Cart is an embedded system project. This device is designed to modernize the retail shopping experience by automatically detecting, tracking, and managing items placed in or removed from the cart, reducing checkout times and improving customer convenience.
 
+## Demo Video Link
+https://seneca-my.sharepoint.com/:v:/g/personal/iparmar1_myseneca_ca/Ef1WUrLiHydLjBZKFkvNBPoBBUC4hpb3cK3ptZdImZfKXg?e=BmfXfl
+
 ## Hardware Components
 The following hardware modules were integrated into our project:
 - **NXP Freedom K66F Board** – Acts as the central controller (Cortex M4-based).
