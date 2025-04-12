@@ -1,6 +1,6 @@
 # Smart Shopping Cart –  *Tap Cart*
 
-## Youtube link demo
+## Demo Youtube link
 https://youtu.be/8iXMl7V7iCE
 
 
